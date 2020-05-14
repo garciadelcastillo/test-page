@@ -2,7 +2,7 @@ let creepCount = 50;
 let creeps = [];
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(windowWidth, windowHeight);
   
   for (let i = 0; i < creepCount; i++) {
     let c = new Creep(width / 2, height / 2, 2, random(0, TWO_PI));
