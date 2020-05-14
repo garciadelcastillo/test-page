@@ -2,6 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/garciadelcastillo/test-page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+### Assignment 1
+
+Check out my [assignment 1](./assignment1)!
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
